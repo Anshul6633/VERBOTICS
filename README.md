@@ -1,8 +1,8 @@
 
 =======
-# N Square_frontend
+# VERBOTICS
 
-deployed - 15/12/2024
+deployed - 8/9/2025
  
 
 ## Getting started
